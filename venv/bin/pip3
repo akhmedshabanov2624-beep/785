@@ -1,4 +1,6 @@
-#!/home/guest/785/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/guest/Рабочий стол/785/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
