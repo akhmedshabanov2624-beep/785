@@ -12,6 +12,7 @@ def user_register():
         database="sch688_vvedenie",
         user="sch688_vvedenie",
         password="Qwerty123")
+        
     
     name = req['name']
     login = req['email']
